@@ -1,0 +1,26 @@
+state = {
+	id=1020
+	name="STATE_1020"
+	manpower = 342642
+	
+	state_category = town
+	
+	history = {
+
+		owner = ROM
+		add_core_of = ROM
+		add_core_of = TRA
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+	}
+
+	provinces = {
+		713 746 3696 3709 9687 9704 
+	}
+
+	local_supplies = 9.0 
+}

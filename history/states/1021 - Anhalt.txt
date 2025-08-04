@@ -1,0 +1,48 @@
+state = {
+	id=1021
+	name="STATE_1021"
+	manpower = 3662546
+	buildings_max_level_factor = 1
+
+	state_category = metropolis
+
+
+	history = {
+
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRE
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 7
+		}
+
+		victory_points = {
+			6582 5 # Halle
+		}
+
+		victory_points = {
+			3522 5 # Magdeburg
+		}
+		
+		victory_points = {
+			9560 5 # Wittenberg
+		}		
+		
+		1939.1.1 = {
+			buildings = {
+				synthetic_refinery = 2
+				arms_factory = 5
+				industrial_complex = 10
+			}
+		}
+	}
+
+	provinces = {
+		 425 538 3522 6441 6487 6501 6582 9456 9560 11359 11545
+	}
+
+	local_supplies = 0.0 
+}
